@@ -1,0 +1,27 @@
+*{
+    background-color: moccasin;
+    color: black;
+}
+.Main-div{
+    height: 320px;
+    width: 320px;
+    background-color: red;
+
+}
+.box-div{
+    border: 12px solid black;
+    width: 120px;
+    height: 60px;
+}
+.outer-text{
+    font-size: 20px;
+
+}
+@media only screen and (min-width:480px) and (max-width:767px){
+    .Main-div{
+        height: 500px;
+        width:600px;
+        background-color: yellow;
+    }
+
+}

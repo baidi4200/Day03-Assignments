@@ -1,0 +1,25 @@
+*{
+    background-color: #aeb2b8;
+}
+
+.main {
+    position: relative;
+}
+
+.left{
+    position: absolute;
+    left: 5%;
+    top: 30%;
+
+}
+
+.right{
+    position: absolute;
+    right: 5%;
+    top: 30%;
+}
+
+.logo {
+    height: 106px;
+    margin: -28px;
+}
